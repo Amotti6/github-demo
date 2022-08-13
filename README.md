@@ -7,6 +7,14 @@ this is a simple text
 This is an introduction
 
 ## DEPLOYMENT
+
+this is deployment
+
 ## PURPOSE
 
+Adding purpose
+
 ## HOW TO CONTRIBUTE
+
+adding contribution
+
