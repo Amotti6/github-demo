@@ -1,2 +1,7 @@
-# github-demo
-simple practice repo
+# STARTER WEB PROJECT
+
+## INTRODUCTION
+
+### PURPOST
+
+#### HOW TO CONTRIBUTE
