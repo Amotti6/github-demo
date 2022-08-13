@@ -1,5 +1,7 @@
 # STARTER WEB PROJECT
 
+this is a simple text
+ 
 ## INTRODUCTION
 ## DEPLOYMENT
 ## PURPOSE
